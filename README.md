@@ -2,6 +2,13 @@
 
 Objetivos 
 
+Aprender las distintas utilidades de la ley de ohm y su importancia en circuitos electricos.
+
+Desarrollar habilidades para encontrar fallas en un circuito electrico y saber como solucionarlas.
+
+Reconocer las distintas unidades de medida y su equivalencia, para conversiones.
+
+
 Marco teorico 
 
 ![image](https://user-images.githubusercontent.com/117759439/202307677-da8c0bff-e657-4e91-b7b3-5c3268241f86.png)
@@ -349,5 +356,13 @@ La fuente de potencia utiliza 0.08kWh
 
 Video
 
+
+Conclusiones 
+
+La ley de ohm es la base para poder realizar diversos calculos como hallar la corriente, el voltaje y la resistencia, asi que es importante saber identificarla.
+
+Cada elemento tiene su unidad de medida que es equivalente a otras unidades, esto nos permite realizar conversiones para trabajar de manera efectiva, por lo que es importante saber reconocer las unidades de medida de cada elemento y las equivalencias que tienen con otras unidades.
+
 Bibliografia 
 
+Floyd, T.L. (2007) Principios de Circuitos eléctricos. México: Pearson Educación.
