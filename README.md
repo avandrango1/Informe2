@@ -170,6 +170,11 @@ El problema es que la fuente puede ponerse en cortocircuito si el reóstato se a
 
 35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
 
+R=V/I
+
+15=110/1
+
+Rminima= 110-15 =95 ohm
 
 37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
